@@ -1,4 +1,4 @@
-# Cálculo 2 - Leandro Cruvinel Lemes
+# Geometria analítica - Leandro Cruvinel Lemes
 
 ## Cronograma de aulas - 2022 - 1s
 
