@@ -1,1 +1,1 @@
-## Notas aplicadas do curso de geometria analítica para engenharias (DMAT - UFTM)
+## Notas aplicadas de geometria analítica (DMAT - UFTM)
