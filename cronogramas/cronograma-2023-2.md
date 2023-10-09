@@ -38,9 +38,9 @@
 - A25 - 29/01/2024 - Superfícies cilíndricas
 - A26 - 31/01/2024 - Superfícies cônicas
 - A27 - 05/02/2024 - Superfícies de rotação
-- A28 - 07/02/2024 - Mudança de coordenada
-- A29 - 19/02/2024 - Revisão
-- A30 - 21/02/2024 - Atividade avaliativa
+- A28 - 07/02/2024 - Revisão
+- A29 - 19/02/2024 - Atividade avaliativa
+- A30 - 21/02/2024 - Mudança de coordenada
 
 ### Segunda chamada:
 - 2CH - 23/02/2024
